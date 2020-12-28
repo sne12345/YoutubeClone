@@ -1,5 +1,5 @@
 # YoutubeClone Project
 
 # 기술 스택
-- back : node.js
-- front : react.js
+Back-End : node.js
+Front-End : react.js
